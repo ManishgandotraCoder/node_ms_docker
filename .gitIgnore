@@ -1,7 +1,7 @@
 /api-gateway/node_modules
-/order/node_modules
-/payment/node_modules
+/stream/node_modules
+/direct/node_modules
 
 /api-gateway/package-lock.json
-/order/package-lock.json
-/payment/package-lock.json
+/stream/package-lock.json
+/direct/package-lock.json
