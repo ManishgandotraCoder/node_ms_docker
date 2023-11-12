@@ -1,7 +1,7 @@
 /api-gateway/node_modules
-/stream/node_modules
-/direct/node_modules
+/socket/node_modules
+/apis/node_modules
 
 /api-gateway/package-lock.json
-/stream/package-lock.json
-/direct/package-lock.json
+/socket/package-lock.json
+/apis/package-lock.json
