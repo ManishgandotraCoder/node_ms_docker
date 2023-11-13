@@ -15,8 +15,8 @@ const server = gateway({
         }
     ]
 });
-server.get('/', (req,res,next)=>{
-    res.send('working')
+server.get('/', (req, res) => {
+    res.send('<h1>Speedy</h1> <h4>I love you </h4> ');
 })
 server.start(port).then(server => {
     console.log("Gateway is running " + port);
